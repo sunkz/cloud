@@ -1,0 +1,14 @@
+server:
+  port: 8088
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  application:
+    name: node-service
+
+sidecar:
+  ip: localhost
+  port: 8060
+  health-check-url: http://localhost:8060/health.json
