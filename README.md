@@ -2,6 +2,7 @@
 
 - [x] Nacos
 - [x] Dubbo
+- [x] Sidecar
 - [ ] RocketMQ
 - [ ] Seata
 - [ ] Sentinel
