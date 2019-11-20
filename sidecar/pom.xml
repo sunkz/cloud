@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>node-service-sidecar</module>
+        <module>sidecar-consumer</module>
     </modules>
 
     <dependencyManagement>

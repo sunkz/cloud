@@ -6,7 +6,7 @@ spring:
       discovery:
         server-addr: localhost:8848
   application:
-    name: node-service
+    name: node-service-provide-sidecar
 
 sidecar:
   ip: localhost
