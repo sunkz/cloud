@@ -18,6 +18,7 @@
         <module>nacos</module>
         <module>dubbo</module>
         <module>sidecar</module>
+        <module>sentinel</module>
     </modules>
 
     <properties>
