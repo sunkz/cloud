@@ -5,6 +5,6 @@
 - [x] Sidecar
 - [ ] RocketMQ
 - [ ] Seata
-- [ ] Sentinel
+- [x] Sentinel
 - [ ] Scheduler X
 - [ ] ......
