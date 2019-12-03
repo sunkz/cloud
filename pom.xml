@@ -19,6 +19,7 @@
         <module>dubbo</module>
         <module>sidecar</module>
         <module>sentinel</module>
+        <module>admin</module>
     </modules>
 
     <properties>
