@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>nacos-config</module>
         <module>nacos-discovery</module>
         <module>dubbo</module>
         <module>sidecar</module>
