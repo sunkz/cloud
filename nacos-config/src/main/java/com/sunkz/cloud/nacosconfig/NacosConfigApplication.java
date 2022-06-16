@@ -1,4 +1,4 @@
-package com.sunkz.nacosconfig;
+package com.sunkz.cloud.nacosconfig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
