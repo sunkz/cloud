@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>nacos</module>
+        <module>nacos-discovery</module>
         <module>dubbo</module>
         <module>sidecar</module>
         <module>sentinel</module>
