@@ -11,7 +11,7 @@ public class NacosConfigApplication {
 
     public static void main(String[] args) throws InterruptedException {
         ConfigurableApplicationContext applicationContext = SpringApplication.run(NacosConfigApplication.class, args);
-        while(true) {
+        while (true) {
             String userName = applicationContext.getEnvironment().getProperty("user.name");
             String userAge = applicationContext.getEnvironment().getProperty("user.age");
             System.err.println("user name :" + userName + "; age: " + userAge);
