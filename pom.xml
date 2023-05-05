@@ -21,6 +21,7 @@
         <module>sidecar</module>
         <module>sentinel</module>
         <module>admin</module>
+        <module>rocketmq</module>
     </modules>
 
     <properties>
