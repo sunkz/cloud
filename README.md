@@ -4,7 +4,7 @@
 - [x] Dubbo
 - [x] Sidecar
 - [x] Admin
-- [ ] RocketMQ
+- [x] RocketMQ
 - [ ] Seata
 - [x] Sentinel
 - [ ] Scheduler X
