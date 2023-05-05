@@ -10,7 +10,7 @@ docker-compose -f example/standalone-derby.yaml up
 > pasword=nacos
 ### 配置
 ```shell
-DataId: nacos-config.properties
+DataId: nacos-config.properties (dataId包含后缀名)
 # 配置内容 properties
 user.name=sunkz
 user.age=10
