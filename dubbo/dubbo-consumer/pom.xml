@@ -44,6 +44,7 @@
         <dependency>
             <groupId>com.sunkz.cloud</groupId>
             <artifactId>dubbo-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
