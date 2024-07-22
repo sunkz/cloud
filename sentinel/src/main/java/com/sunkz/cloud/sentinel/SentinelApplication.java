@@ -1,6 +1,5 @@
 package com.sunkz.cloud.sentinel;
 
-import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,8 +14,7 @@ public class SentinelApplication {
     }
 
     @GetMapping("/hi")
-    @SentinelResource("hi")
-    public String hi(){
+    public String hi() {
         return "hi";
     }
 
